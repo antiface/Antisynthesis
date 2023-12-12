@@ -1,5 +1,6 @@
 Antisynthesis
 =============
+v1.0.1 Stable Release [![DOI](https://zenodo.org/badge/15760763.svg)](https://zenodo.org/doi/10.5281/zenodo.10361734)
 
 ## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
 
